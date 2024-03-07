@@ -1,0 +1,240 @@
+[
+    {
+        "nombre": "CAMISETA TITULAR UMBRO A.A.A.J.",
+        "precio": 31899,
+        "img": "assets/camiseta1.PNG",
+        "stock": 3,
+        "categoria": "hombre"
+    },
+    {
+        "nombre": "CAMISETA SUPLENTE UMBRO A.A.A.J.",
+        "precio": 31899,
+        "img": "assets/camiseta2.PNG",
+        "stock": 20,
+        "categoria": "hombre"
+    },
+    {
+        "nombre": "CAMISETA TITULAR UMBRO 22/23",
+        "precio": 17429,
+        "img": "assets/camiseta3.PNG",
+        "stock": 56,
+        "categoria": "hombre"
+    },
+    {
+        "nombre": "CAMISETA SUPLENTE UMBRO 22/23",
+        "precio": 17429,
+        "img": "assets/camiseta4.PNG",
+        "stock": 0,
+        "categoria": "hombre"
+    },
+    {
+        "nombre": "POLO HOMBRE UMBRO SALIDA A.A.A.J.",
+        "precio": 20499,
+        "img": "assets/chomba1.PNG",
+        "stock": 20,
+        "categoria": "hombre"
+    },
+    {
+        "nombre": "REMERA UMBRO SALIDA A.A.A.J.",
+        "precio": 18999,
+        "img": "assets/hombre1.PNG",
+        "stock": 20,
+        "categoria": "hombre"
+    },
+    {
+        "nombre": "REMERA HOMBRE SALIDA A.A.A.J.",
+        "precio": 18999,
+        "img": "assets/hombre2.PNG",
+        "stock": 20,
+        "categoria": "hombre"
+    },
+    {
+        "nombre": "REMERA S/M HOMBRE UMBRO ENTRE. A.A.A.J.",
+        "precio": 19999,
+        "img": "assets/camiseta3.PNG",
+        "stock": 20,
+        "categoria": "hombre"
+    },
+    {
+        "nombre": "BERMUDA HOMBRE UMBRO ARQ. A.A.A.J. ",
+        "precio": 19099,
+        "img": "assets/hombre4.PNG",
+        "stock": 0,
+        "categoria": "hombre"
+    },
+    {
+        "nombre": "BERMUDA HOMBRE UMBRO ARQ.  ",
+        "precio": 19099,
+        "img": "assets/hombre6.PNG",
+        "stock": 6,
+        "categoria": "hombre"
+    },
+    {
+        "nombre": "POLO HOMBRE UMBRO SALIDA A.A.A.J",
+        "precio": 23799,
+        "img": "assets/hombre7.PNG",
+        "stock": 20,
+        "categoria": "hombre"
+    },
+    {
+        "nombre": "POLO HOMBRE UMBRO ",
+        "precio": 20199,
+        "img": "assets/hombre8.PNG",
+        "stock": 20,
+        "categoria": "hombre"
+    },
+    {
+        "nombre": "SWEATER MUJER A.A.A.J. ",
+        "precio": 14000,
+        "img": "assets/mujer2.PNG",
+        "stock": 20,
+        "categoria": "mujer"
+    },
+    {
+        "nombre": "CHOMBA REPLICA MARADONA A.A.A.J ",
+        "precio": 9499,
+        "img": "assets/mujer3.PNG",
+        "stock": 20,
+        "categoria": "mujer"
+    },
+    {
+        "nombre": "CAMISETA SEMILLERO DEL MUNDO 22/23 ",
+        "precio": 5499,
+        "img": "assets/mujer4.PNG",
+        "stock": 20,
+        "categoria": "mujer"
+    },
+    {
+        "nombre": "CAMISETA MUJER UMBRO 22/23 ",
+        "precio": 14999,
+        "img": "assets/camisetamujer1.PNG",
+        "stock": 20,
+        "categoria": "mujer"
+    },
+    {
+        "nombre": "CAMISETA MUJER UMBRO 22/23 (2) ",
+        "precio": 14999,
+        "img": "assets/camisetamujer2.PNG",
+        "stock": 20,
+        "categoria": "mujer"
+    },
+    {
+        "nombre": "piluso niño semillero del mundo ",
+        "precio": 4200,
+        "img": "assets/pilusonino.PNG",
+        "stock": 20,
+        "categoria": "nino"
+    },
+    {
+        "nombre": "CONJUNTO UNISEX NIÑO A.A.A.J. ",
+        "precio": 18800,
+        "img": "assets/NINO1.PNG",
+        "stock": 0,
+        "categoria": "nino"
+    },
+    {
+        "nombre": "CONJUNTO UNISEX NIÑO A.A.A.J. (2) ",
+        "precio": 18800,
+        "img": "assets/NINO2.PNG",
+        "stock": 20,
+        "categoria": "nino"
+    },
+    {
+        "nombre": "CONJUNTO UNISEX NIÑO A.A.A.J. (3)",
+        "precio": 18800,
+        "img": "assets/NINO3.PNG",
+        "stock": 20,
+        "categoria": "nino"
+    },
+    {
+        "nombre": "CONJUNTO NIÑO A.A.A.J ",
+        "precio": 20799,
+        "img": "assets/NINO4.PNG",
+        "stock": 20,
+        "categoria": "nino"
+    },
+    {
+        "nombre": "BODY BORDADO MANGA CORTA",
+        "precio": 20399,
+        "img": "assets/NINO5.PNG",
+        "stock": 0,
+        "categoria": "nino"
+    },
+    {
+        "nombre": "BABERO BORDADO ",
+        "precio": 14999,
+        "img": "assets/NINO6.PNG",
+        "stock": 20,
+        "categoria": "nino"
+    },
+    {
+        "nombre": "TOALLA BEBE ",
+        "precio": 14999,
+        "img": "assets/NINO7.PNG",
+        "stock": 20,
+        "categoria": "nino"
+    },
+    {
+        "nombre": "TABLA DE PICADA A.A.A.J ",
+        "precio": 5400,
+        "img": "assets/tablapicada.PNG",
+        "stock": 20,
+        "categoria": "accesorio"
+    },
+    {
+        "nombre": "Piluso adulto negro ",
+        "precio": 4500,
+        "img": "assets/pilusoadulto.PNG",
+        "stock": 20,
+        "categoria": "accesorio"
+    },
+    {
+        "nombre": "PILUSO ADULTO A.A.A.J ",
+        "precio": 4500,
+        "img": "assets/acce1.PNG",
+        "stock": 20,
+        "categoria": "accesorio"
+    },
+    {
+        "nombre": "CANILLERAS",
+        "precio": 3900,
+        "img": "assets/acce2.PNG",
+        "stock": 20,
+        "categoria": "accesorio"
+    },
+    {
+        "nombre": "BUFANDA MARADONA A.A.A.J. ",
+        "precio": 5599,
+        "img": "assets/acce3.PNG",
+        "stock": 20,
+        "categoria": "accesorio"
+    },
+    {
+        "nombre": "PELOTA N*5 A.A.A.J",
+        "precio": 6300,
+        "img": "assets/acce4.PNG",
+        "stock": 0,
+        "categoria": "accesorio"
+    },
+    {
+        "nombre": "LLAVERO A.A.A.J ",
+        "precio": 3000,
+        "img": "assets/acce5.PNG",
+        "stock": 20,
+        "categoria": "accesorio"
+    },
+    {
+        "nombre": "BANDERIN ROJO ",
+        "precio": 4200,
+        "img": "assets/acce6.PNG",
+        "stock": 20,
+        "categoria": "accesorio"
+    },
+    {
+        "nombre": "DIJE ESCUDO A.A.A.J ",
+        "precio": 5400,
+        "img": "assets/acce7.PNG",
+        "stock": 20,
+        "categoria": "accesorio"
+    }
+]
